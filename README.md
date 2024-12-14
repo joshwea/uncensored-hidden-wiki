@@ -1,5 +1,5 @@
 # The Hidden Wiki
-
+Git commit -m "Added new feature to improve performence
 Welcome to The Hidden Wiki repository! This guide will provide you with the necessary steps to access the darkweb and introduce you to thehiddenwiki2024.com, the ultimate resource for finding the latest v3 .onion URLs.
 
 ## Installing Tor Browser
